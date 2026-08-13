@@ -3,10 +3,9 @@
 **`Frontend/React/UI Developer`**
 
 <img align="right" alt="Coding" width="250" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
-A passionate Frontend / React.js Developer with 2.5+ years of experience, backed by 5.4 years in UI development, building scalable, high-performance, and responsive web applications. Skilled in React.js, TypeScript, Redux Toolkit and Context API for scalable state management, Axios, JavaScript, HTML/CSS, and Bootstrap / Tailwind CSS / Material UI for styling, with expertise in component-based architecture, lazy loading, code splitting, and performance optimization.
-Experienced in developing pixel-perfect, mobile-first UIs using semantic HTML and accessibility best practices, with strong focus on REST API integration using Axios, error handling, and loading states, while delivering reusable, maintainable UI components.
-Proficient in debugging and unit testing (Jest), with strong problem-solving and debugging skills, and experience in collaborating with cross-functional teams. Currently enhancing skills in advanced React patterns.
-Following a brief career break for family responsibilities — fully available to contribute immediately.
+I’m a Frontend & React.js Developer with 5.4 years of experience in frontend and UI development, including 2.5+ years specializing in React.js. I build responsive, scalable, reusable, and high-performance web applications using React.js, TypeScript, JavaScript, Redux Toolkit, RESTful API Integration, modern technologies and best practices.
+
+I’ve worked with enterprise clients across banking, energy, manufacturing, hospitality, and e-commerce domains, delivering pixel-perfect, accessible, high performance, and responsive interface solutions.
 
  <!--  <p align="left">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
