@@ -4,7 +4,7 @@
 
 <img align="right" alt="Coding" width="250" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 I’m a Frontend & React.js Developer with 5.4 years of experience in frontend and UI development, including 2.5+ years specializing in React.js. I build responsive, scalable, reusable, and high-performance web applications using React.js, TypeScript, JavaScript, Redux Toolkit, RESTful API Integration, modern technologies and best practices.
-
+<br><br>
 I’ve worked with enterprise clients across banking, energy, manufacturing, hospitality, and e-commerce domains, delivering pixel-perfect, accessible, high performance, and responsive interface solutions.
 
  <!--  <p align="left">
