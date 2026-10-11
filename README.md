@@ -1,6 +1,6 @@
 # Hi 🏄‍♂️ I'm Jitendra Soni
 
-**`Frontend/React/UI Developer`**
+**`Frontend/React.js & Next.js Developer`**
 
 <img align="right" alt="Coding" width="250" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 I’m a Frontend Developer with 5.4+ years of overall UI development experience, including 3.8+ years specializing in React.js & Next.js. I build responsive, scalable, reusable, and high-performance web applications using React.js, TypeScript, JavaScript, Redux Toolkit, RESTful API Integration, modern technologies and best practices.
